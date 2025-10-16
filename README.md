@@ -14,6 +14,14 @@ This project performs full **CRUD operations** (Create, Read, Update, Delete) di
 ✅ Delete Employee Record  
 
 ---
+## 🛠️ Output
+
+![Alt Text](./EMS_Output_Images/1.png)
+![Alt Text](./EMS_Output_Images/2.png)
+![Alt Text](./EMS_Output_Images/3.png)
+![Alt Text](./EMS_Output_Images/4.png)
+![Alt Text](./EMS_Output_Images/5.png)
+![Alt Text](./EMS_Output_Images/6.png)
 
 ## 🛠️ Tech Stack
 
@@ -41,9 +49,4 @@ CREATE TABLE employees (
     salary DECIMAL(10,2),
     mobile BIGINT
 );
-![Alt Text](./EMS_Output_Images/1.png)
-![Alt Text](./EMS_Output_Images/2.png)
-![Alt Text](./EMS_Output_Images/3.png)
-![Alt Text](./EMS_Output_Images/4.png)
-![Alt Text](./EMS_Output_Images/5.png)
-![Alt Text](./EMS_Output_Images/6.png)
+
